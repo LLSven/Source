@@ -1,5 +1,5 @@
 ## Table of Content  
-- [大佬总结的开源PY项目](./PythonAndCpp/python.wiki)
+- [大佬总结的开源PY项目](./pythonAndcpp/python.wiki)  
 - [大佬总结的开源Cpp项目](./PythonAndCpp/cpp.wiki)
 - [Note Summary](#0.0-note-summary)
 - [PythonML](#1.0-pythonML)
