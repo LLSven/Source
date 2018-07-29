@@ -14,6 +14,8 @@
 
 ### 1.2.1  [List  Of  Movies](/Chaos/Listofmovies.md)
 
+1.2.2 [List Of Actors](/chaos/listofactors.md)
+
 ## 1.3 Music
 
 ### 1.3.1 List  Of  Music
@@ -21,6 +23,8 @@
 ### 1.3.2 List Of  Musicians
 
 ## 1.4 Books
+
+1.4.1 [List Of Books](/Chaos/listofbooks.md)
 
 ## 1.5 Health
 
