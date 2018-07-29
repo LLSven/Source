@@ -22,6 +22,7 @@
 * [face_recognition](https://github.com/fengdu78/face_recognition)
 ### 1.3 Other
 - [大佬总结的开源PY项目](/PythonAndCpp/python.wiki)  
+* [牛逼PLUS的python资料总结-每周APPEND](https://mp.weixin.qq.com/s?__biz=MzI5NDY1MjQzNA==&mid=2247486186&idx=2&sn=c26013d2fc7cfa70c67fa7307bd6e7f5&chksm=ec5ed597db295c81bb8042266965403cb3f57627310b3d34f957039bf06d7bd598c7b764899e&scene=21#wechat_redirect)
 
 ***
 ## 2.0 C/C++
