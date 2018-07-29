@@ -1,7 +1,7 @@
 ## Table of Content  
 - [Note Summary](#0.0-note-summary)
-- [PythonML](#1.0-pythonML)
-- [C/C++ML](#2.0-C/C++ML)
+- [PythonML](#1.0-pythonml)
+- [C/C++ML](#2.0-c/c++ml)
 
 ## 0.0 Note Summary
 * [Algorithms & Data structures](https://github.com/amusi/coding-note)  
