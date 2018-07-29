@@ -12,7 +12,7 @@
 
 ## 1.2 Movie
 
-### 1.2.1  [List  Of  Movies](/Chaos/Listofmovies.md)
+### 1.2.1  [List  Of  Movies](/Chaos/listofmovies.md)
 
 ### 1.2.2 [List Of Actors](/Chaos/listofactors.md)
 
