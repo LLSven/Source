@@ -14,7 +14,7 @@
 
 ### 1.2.1  [List  Of  Movies](/Chaos/Listofmovies.md)
 
-1.2.2 [List Of Actors](/chaos/listofactors.md)
+### 1.2.2 [List Of Actors](/Chaos/listofactors.md)
 
 ## 1.3 Music
 
