@@ -2,15 +2,13 @@
 
 ## 1.1 Thought
 
-<<<<<<< HEAD
+### 1.1.1 [History Process(Politics&Economy)](/Chaos/HistoryProcess(Politics&Economy).md)
 
-### 1.1.1 [History Process(Politics&Economy)](/Chaos/History-Process(Politics&Economy).md)
+#### 1.1.1.1 [International Situation](/Chaos/InternationalSituation.md)
 
-#### 1.1.1.1 [International Situation](/Chaos/International-Situation.md)
+#### 1.1.1.2 [Domestic Situation](/Chaos/DomesticSituation.md)
 
-#### 1.1.1.2 [Domestic Situation](/Chaos/Domestic-Situation.md)
-
-### 1.1.2 [Self-Examination](/Chaos/Self-Examination.md)
+### 1.1.2 [Self-Examination](/Chaos/SelfExamination.md)
 
 ## 1.2 Movie
 
