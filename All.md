@@ -2,13 +2,13 @@
 
 ## 1.1 Thought
 
-### 1.1.1 History Process(Politics&Economy)
+### 1.1.1 [History Process(Politics&Economy)](/Chaos/History Process(Politics&Economy).md)
 
-#### 1.1.1.1 International Situation
+#### 1.1.1.1 [International Situation](/Chaos/International Situation.md)
 
-#### 1.1.1.2 Domestic Situation
+#### 1.1.1.2 [Domestic Situation](/Chaos/Domestic Situation.md)
 
-### 1.1.2 Self-Examination
+### 1.1.2 [Self-Examination](/Chaos/Self-Examination.md)
 
 ## 1.2 Movie
 
@@ -18,9 +18,9 @@
 
 ## 1.3 Music
 
-### 1.3.1 List  Of  Music
+### 1.3.1 [List  Of  Music](/Chaos/listofmusic.md)
 
-### 1.3.2 List Of  Musicians
+### 1.3.2 [List Of  Musicians](/Chaos/listofmusicians.md)
 
 ## 1.4 Books
 
@@ -30,11 +30,11 @@
 
 ### 1.5.1 Inside
 
-#### 1.5.1.1 Physical
+#### 1.5.1.1 [Physical](/Chaos/physical.md)
 
-#### 1.5.1.2 Mental
+#### 1.5.1.2 [Mental](/Chaos/mental.md)
 
-### 1.5.2 Outside
+### 1.5.2 [Outside](/Chaos/outside.md)
 
 # 2.0 Computer
 
@@ -42,7 +42,7 @@
 
 ### 2.1.1 Projects
 
-* [大佬总结的开源PY项目](/Chaos/python.wiki) 
+* [等待我去玩的开源PY项目](/Chaos/python.wiki) 
 
 ### 2.1.2 Note
 
@@ -50,7 +50,7 @@
 
 ### 2.2.1 Projects
 
-* [大佬总结的开源Cpp项目](/Chaos/cpp.wiki)
+* [等待我去玩的开源Cpp项目](/Chaos/cpp.wiki)
 
 ### 2.2.2 Note
 
@@ -91,4 +91,3 @@
 
 # 3.0 Economic
 
-# 4.0 Law
