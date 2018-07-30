@@ -45,13 +45,13 @@
 - [Object-detection project summary](https://github.com/amusi/awesome-object-detection)
 - [machine-learning-surveys](https://github.com/mlreview/machine-learning-surveys) 
 
-### 2.3.1 Neural Networks
+### 2.1.1 Neural Networks
 
 - [YOLOv3-pytroch](https://github.com/ne7ermore/yolo-v3) 
 - [Learn OpenCV 3 with Python](https://github.com/techfort/pycv)  
 - [python_caffe_train_test](https://github.com/Jayhello/python_caffe_train_test)  
 
-### 2.3.2 Deep Learning
+### 2.1.2 Deep Learning
 
 - [a list of deep learning resources for computer vision](https://github.com/kjw0612/awesome-deep-vision)  
 - [tensorflow models](https://github.com/tensorflow/models)  
@@ -59,27 +59,45 @@
 - [face_recognition](https://github.com/fengdu78/face_recognition)
 - [Tensorflow](https://github.com/tensorflow/tensorflow)  
 
-## 2.2 System
+## 2.2 Python
+
+### 2.2.1 Tutor
+
+### 2.2.2 Projects
+
+* [等待我去玩的开源PY项目](/Chaos/python.wiki) 
+
+## 2.3 C/C++
+
+### 2.3.1 Tutor
+* [C++](https://github.com/linw7/Skill-Tree/blob/master/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80C++.md)
+* [题目](https://github.com/linw7/Skill-Tree/blob/master/错题精解.md)
+
+### 2.3.2 Projects
+
+* [等待我去玩的开源Cpp项目](/Chaos/cpp.wiki)
+
+## 2.4 System
 
 * [计算机操作系统](https://github.com/CyC2018/Interview-Notebook/blob/master/notes/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F.md)
 * [操作系统(面向进程和线程学习操作系统)](https://github.com/linw7/Skill-Tree/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%8F%8A%E7%AE%97%E6%B3%95.md)
 * [Linux](https://github.com/CyC2018/Interview-Notebook/blob/master/notes/Linux.md)
 * [Linux工具](https://github.com/linw7/Skill-Tree/blob/master/Linux%E5%B7%A5%E5%85%B7.md)
 
-## 2.2 WEB
+## 2.5 WEB
 
 * [计算机网络](https://github.com/CyC2018/Interview-Notebook/blob/master/notes/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C.md)
 * [计算机网络：TCP/IP协议和HTTP协议 ](https://github.com/linw7/Skill-Tree/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C.md)
 * [HTTP](https://github.com/CyC2018/Interview-Notebook/blob/master/notes/HTTP.md)
 * [Socket](https://github.com/CyC2018/InnterviewNotes/blob/master/notes/Socket.md)
 
-## 2.3 OO
+## 2.6 OO
 
 * [设计模式](https://github.com/CyC2018/InnterviewNotes/blob/master/notes/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.md)
 
 * [面向对象思想](https://github.com/CyC2018/Interview-Notebook/blob/master/notes/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E6%80%9D%E6%83%B3.md)
 
-## 2.4 Data Base
+## 2.7 Data Base
 
 * [数据库系统原理](https://github.com/CyC2018/Interview-Notebook/blob/master/notes/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86.md)
 
@@ -91,25 +109,7 @@
 
 * [Redis](https://github.com/CyC2018/InnterviewNotes/blob/master/notes/Redis.md) 
 
-## 2.5 Python
-
-### 2.1.1 Tutor
-
-### 2.1.2 Projects
-
-* [等待我去玩的开源PY项目](/Chaos/python.wiki) 
-
-## 2.6 C/C++
-
-### 2.2.1 Tutor
-* [C++](https://github.com/linw7/Skill-Tree/blob/master/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80C++.md)
-* [题目](https://github.com/linw7/Skill-Tree/blob/master/错题精解.md)
-
-### 2.2.2 Projects
-
-* [等待我去玩的开源Cpp项目](/Chaos/cpp.wiki)
-
-## 2.7 JAVA
+## 2.8 JAVA
 
 * [Java 基础](https://github.com/CyC2018/InnterviewNotes/blob/master/notes/Java%20%E5%9F%BA%E7%A1%80.md)
 
@@ -121,7 +121,7 @@
 
 * [Java I/O](https://github.com/CyC2018/InnterviewNotes/blob/master/notes/Java%20IO.md)
 
-## 2.8 System Design
+## 2.9 System Design
 
 * [分布式(分布式锁、分布式事务、CAP、BASE、Paxos、Raft)](https://github.com/CyC2018/InnterviewNotes/blob/master/notes/%E5%88%86%E5%B8%83%E5%BC%8F.md)
 
@@ -131,7 +131,7 @@
 
 * [消息队列(消息处理模型、使用场景、可靠性)](https://github.com/CyC2018/InnterviewNotes/blob/master/notes/%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97.md)
 
-## 2.9 编码实践
+## 2.10 编码实践
 
 * [重构(参考 重构 改善既有代码的设计)](https://github.com/CyC2018/InnterviewNotes/blob/master/notes/%E9%87%8D%E6%9E%84.md)
 
@@ -139,7 +139,7 @@
 
 * [代码风格规范(Google 开源项目的代码风格规范)](https://github.com/CyC2018/InnterviewNotes/blob/master/notes/%E4%BB%A3%E7%A0%81%E9%A3%8E%E6%A0%BC%E8%A7%84%E8%8C%83.md)
 
-## 2.4 Data Structure & Algorithms
+## 2.11 Data Structure & Algorithms
 
 * [剑指 Offer 题解](https://github.com/CyC2018/InnterviewNotes/blob/master/notes/%E5%89%91%E6%8C%87%20offer%20%E9%A2%98%E8%A7%A3.md)
 * [Leetcode 题解](https://github.com/CyC2018/InnterviewNotes/blob/master/notes/Leetcode%20%E9%A2%98%E8%A7%A3.md)
@@ -147,7 +147,7 @@
 * [算法(主要参考 Robert Sedgewick 的算法书进行实现，源代码以及测试代码可在另一个仓库获取)](https://github.com/CyC2018/InnterviewNotes/blob/master/notes/%E7%AE%97%E6%B3%95.md)
 * [真题摘录](https://github.com/linw7/Skill-Tree/blob/master/%E7%9C%9F%E9%A2%98%E6%91%98%E5%BD%95.md)
 
-## 2.5 Tools
+## 2.12 Tools
 
 * [Git](https://github.com/CyC2018/InnterviewNotes/blob/master/notes/Git.md) 
 
@@ -155,7 +155,7 @@
 
 * [IP定位](https://github.com/lionsoul2014/ip2region)
 
-## 2.10 Material Summary
+## 2.13 Material Summary
 
 - [Algorithms & Data structures](https://github.com/amusi/coding-note)  
 - [computer learning note](https://github.com/CyC2018/Interview-Notebook)  
