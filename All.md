@@ -81,9 +81,7 @@
 * [Algorithms & Data structures](https://github.com/amusi/coding-note)  
 * [computer learning note](https://github.com/CyC2018/Interview-Notebook)  
 
-## 2.5 Linux
-
-### 2.5.1 Vim
+## 2.5 [Linux](https://github.com/CyC2018/Interview-Notebook/blob/master/notes/Linux.md)
 
 ## 2.6 Tools
 
