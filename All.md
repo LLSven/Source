@@ -38,7 +38,7 @@
 
 ### 1.5.2 [Outside](/Chaos/outside.md)
 
-# 2.0 Computer ([BookList]([https://github.com/CyC2018/Interview-Notebook/blob/master/BOOKLIST.md))
+# 2.0 Computer ([BookList](https://github.com/CyC2018/Interview-Notebook/blob/master/BOOKLIST.md))
 
 ## 2.1 Machine Learning
 
