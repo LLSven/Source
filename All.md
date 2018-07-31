@@ -42,26 +42,30 @@
 
 ## 2.1 Machine Learning
 
-- [Object-detection project summary](https://github.com/amusi/awesome-object-detection)
-- [machine-learning-surveys](https://github.com/mlreview/machine-learning-surveys) 
+* [**MachineLearning**](https://github.com/apachecn/MachineLearning)
+* [**Machine-Learning-Tutorials**](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
+* [**a list of deep learning resources for computer vision**](https://github.com/kjw0612/awesome-deep-vision) 
+* [Object-detection project summary](https://github.com/amusi/awesome-object-detection)
+* [machine-learning-surveys](https://github.com/mlreview/machine-learning-surveys) 
 
-### 2.1.1 Neural Networks
+### 2.1.1 [DeepLearning](/Chaos/DeepLearning.md)
 
-- [YOLOv3-pytroch](https://github.com/ne7ermore/yolo-v3) 
-- [Learn OpenCV 3 with Python](https://github.com/techfort/pycv)  
-- [python_caffe_train_test](https://github.com/Jayhello/python_caffe_train_test)  
+### 2.1.2 [ML-Algorithm](/Chaos/ML-Algorithm.md)
 
-### 2.1.2 Deep Learning
+### 2.1.3 [Advanced](/Chaos/Advanced.md) 
 
-- [a list of deep learning resources for computer vision](https://github.com/kjw0612/awesome-deep-vision)  
-- [tensorflow models](https://github.com/tensorflow/models)  
-- [darkflow](https://github.com/thtrieu/darkflow)  
-- [face_recognition](https://github.com/fengdu78/face_recognition)
-- [Tensorflow](https://github.com/tensorflow/tensorflow)  
+### 2.1.4 [Application](/Chaos/Application.md)
 
 ## 2.2 Python
 
 ### 2.2.1 Tutor
+
+* [Ali tutor](https://edu.aliyun.com/course/137/lesson/list?spm=5176.8764728.aliyun-edu-course-tab.2.YzM4i3&previewAs=guest)
+* [Three days to get the basic Python](https://github.com/MurphyWan/Python-first-Practice)
+* [廖雪峰教程](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
+* [实验楼](https://www.shiyanlou.com/courses/596)
+* [hard way to learn python](https://www.2cto.com/shouce/Pythonbbf/index.html)
+* [简明Python](http://www.kuqin.com/abyteofpython_cn/index.html)
 
 ### 2.2.2 Projects
 
