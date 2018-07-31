@@ -30,12 +30,6 @@
 
 ## 1.5 [Health](https://www.msdmanuals.cn/%E9%A6%96%E9%A1%B5)
 
-#### 1.5.1.1 [Physical](/Chaos/physical.md)
-
-#### 1.5.1.2 [Mental](/Chaos/mental.md)
-
-### 1.5.2 [Outside](/Chaos/outside.md)
-
 # 2.0 Computer ([BookList](https://github.com/CyC2018/Interview-Notebook/blob/master/BOOKLIST.md))
 
 ## 2.1 Machine Learning
