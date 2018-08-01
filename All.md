@@ -4,7 +4,7 @@
 
 ## 1.1 Thought
 
-### 1.1.1 [History Process(Politics&Economy)](/Chaos/HistoryProcess(Politics&Economy).md)
+### 1.1.1 [History  Process(Politics&Economy)](/Chaos/HistoryProcess(Politics&Economy).md)
 
 #### 1.1.1.1 [International Situation](/Chaos/InternationalSituation.md)
 
@@ -73,12 +73,10 @@
 
 * [等待我去玩的开源Cpp项目](/Chaos/cpp.wiki)
 
-## 2.4 System
+## 2.4 [System](/Chaos/system.md)
 
 * [计算机操作系统](https://github.com/CyC2018/Interview-Notebook/blob/master/notes/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F.md)
 * [操作系统(面向进程和线程学习操作系统)](https://github.com/linw7/Skill-Tree/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%8F%8A%E7%AE%97%E6%B3%95.md)
-* [Linux](https://github.com/CyC2018/Interview-Notebook/blob/master/notes/Linux.md)
-* [Linux工具](https://github.com/linw7/Skill-Tree/blob/master/Linux%E5%B7%A5%E5%85%B7.md)
 
 ## 2.5 WEB
 
@@ -135,13 +133,16 @@
 
 * [代码风格规范(Google 开源项目的代码风格规范)](https://github.com/CyC2018/InnterviewNotes/blob/master/notes/%E4%BB%A3%E7%A0%81%E9%A3%8E%E6%A0%BC%E8%A7%84%E8%8C%83.md)
 
-## 2.11 Data Structure & Algorithms
+## 2.11 [Data Structure & Algorithms](/Chaos/DataStructure&Algorithms.md)
+
 
 * [剑指 Offer 题解](https://github.com/CyC2018/InnterviewNotes/blob/master/notes/%E5%89%91%E6%8C%87%20offer%20%E9%A2%98%E8%A7%A3.md)
 * [Leetcode 题解](https://github.com/CyC2018/InnterviewNotes/blob/master/notes/Leetcode%20%E9%A2%98%E8%A7%A3.md)
+* [leetcode全解](https://github.com/kamyu104/LeetCode)
 * [数据结构及算法](https://github.com/linw7/Skill-Tree/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%8F%8A%E7%AE%97%E6%B3%95.md)
 * [算法(主要参考 Robert Sedgewick 的算法书进行实现，源代码以及测试代码可在另一个仓库获取)](https://github.com/CyC2018/InnterviewNotes/blob/master/notes/%E7%AE%97%E6%B3%95.md)
 * [真题摘录](https://github.com/linw7/Skill-Tree/blob/master/%E7%9C%9F%E9%A2%98%E6%91%98%E5%BD%95.md)
+
 
 ## 2.12 Tools
 
