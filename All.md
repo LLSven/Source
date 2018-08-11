@@ -48,24 +48,11 @@
 
 ### 2.1.4 [Application](/Chaos/Application.md)
 
-## 2.2 Python
-
-### 2.2.1 Tutor
-
-* [Ali tutor](https://edu.aliyun.com/course/137/lesson/list?spm=5176.8764728.aliyun-edu-course-tab.2.YzM4i3&previewAs=guest)
-* [Three days to get the basic Python](https://github.com/MurphyWan/Python-first-Practice)
-* [廖雪峰教程](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
-* [实验楼](https://www.shiyanlou.com/courses/596)
-* [hard way to learn python](https://www.2cto.com/shouce/Pythonbbf/index.html)
-* [简明Python](http://www.kuqin.com/abyteofpython_cn/index.html)
-
-### 2.2.2 Projects
-
-* [等待我去玩的开源PY项目](/Chaos/python.wiki) 
+## 2.2 [Python](/Chaos/python.md)
 
 ## 2.3 C/C++
 
-### 2.3.1 Tutor
+### 2.3.1 ABC
 * [C++](https://github.com/linw7/Skill-Tree/blob/master/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80C++.md)
 * [题目](https://github.com/linw7/Skill-Tree/blob/master/错题精解.md)
 
