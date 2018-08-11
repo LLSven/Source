@@ -32,33 +32,11 @@
 
 # 2.0 Computer ([BookList](https://github.com/CyC2018/Interview-Notebook/blob/master/BOOKLIST.md))
 
-## 2.1 Machine Learning
-
-* [**MachineLearning**](https://github.com/apachecn/MachineLearning)
-* [**Machine-Learning-Tutorials**](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
-* [**a list of deep learning resources for computer vision**](https://github.com/kjw0612/awesome-deep-vision) 
-* [Object-detection project summary](https://github.com/amusi/awesome-object-detection)
-* [machine-learning-surveys](https://github.com/mlreview/machine-learning-surveys) 
-
-### 2.1.1 [DeepLearning](/Chaos/DeepLearning.md)
-
-### 2.1.2 [ML-Algorithm](/Chaos/ML-Algorithm.md)
-
-### 2.1.3 [Advanced](/Chaos/Advanced.md) 
-
-### 2.1.4 [Application](/Chaos/Application.md)
+## 2.1 [Machine Learning](/Chaos/machinelearning.md)
 
 ## 2.2 [Python](/Chaos/python.md)
 
-## 2.3 C/C++
-
-### 2.3.1 ABC
-* [C++](https://github.com/linw7/Skill-Tree/blob/master/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80C++.md)
-* [题目](https://github.com/linw7/Skill-Tree/blob/master/错题精解.md)
-
-### 2.3.2 Projects
-
-* [等待我去玩的开源Cpp项目](/Chaos/cpp.wiki)
+## 2.3 [C/C++](/Chaos/CPP.md)
 
 ## 2.4 [System](/Chaos/system.md)
 
