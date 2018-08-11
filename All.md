@@ -18,15 +18,9 @@
 
 ### 1.2.2 [List Of Actors](/Chaos/listofactors.md)
 
-## 1.3 Music
+## 1.3 [Music](/Chaos/listofmusic.md)
 
-### 1.3.1 [List  Of  Music](/Chaos/listofmusic.md)
-
-### 1.3.2 [List Of  Musicians](/Chaos/listofmusicians.md)
-
-## 1.4 Books
-
-### 1.4.1 [List Of Books](/Chaos/listofbooks.md)
+## 1.4 [Books](/Chaos/listofbooks.md)
 
 ## 1.5 [Health](https://www.msdmanuals.cn/%E9%A6%96%E9%A1%B5)
 
