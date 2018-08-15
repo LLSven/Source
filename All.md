@@ -1,30 +1,8 @@
 **Never Repeatedly Create Tools.**
 
-# 1.0 Personal Life
 
-## 1.1 Thought
 
-### 1.1.1 [History  Process(Politics&Economy)](/Chaos/HistoryProcess(Politics&Economy).md)
-
-#### 1.1.1.1 [International Situation](/Chaos/InternationalSituation.md)
-
-#### 1.1.1.2 [Domestic Situation](/Chaos/DomesticSituation.md)
-
-### 1.1.2 [Self-Examination](/Chaos/SelfExamination.md)
-
-## 1.2 Movie
-
-### 1.2.1  [List  Of  Movies](/Chaos/listofmovies.md)
-
-### 1.2.2 [List Of Actors](/Chaos/listofactors.md)
-
-## 1.3 [Music](/Chaos/listofmusic.md)
-
-## 1.4 [Books](/Chaos/listofbooks.md)
-
-## 1.5 [Health](https://www.msdmanuals.cn/%E9%A6%96%E9%A1%B5)
-
-# 2.0 Computer ([BookList](https://github.com/CyC2018/Interview-Notebook/blob/master/BOOKLIST.md))
+#  2.0 Computer ([BookList](https://github.com/CyC2018/Interview-Notebook/blob/master/BOOKLIST.md))
 
 ## 2.1 [Machine Learning](/Chaos/machinelearning.md)
 
