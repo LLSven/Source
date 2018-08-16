@@ -1,7 +1,5 @@
 **Never Repeatedly Create Tools.**
 
-
-
 #  2.0 Computer ([BookList](https://github.com/CyC2018/Interview-Notebook/blob/master/BOOKLIST.md))
 
 ## 2.1 [Machine Learning](/Chaos/machinelearning.md)
@@ -94,6 +92,3 @@
 - [Algorithms & Data structures](https://github.com/amusi/coding-note)  
 - [computer learning note](https://github.com/CyC2018/Interview-Notebook)  
 - [Skill Tree](https://github.com/linw7/Skill-Tree)
-
-# 3.0 Economic
-
